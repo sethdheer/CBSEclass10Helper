@@ -1,0 +1,25 @@
+{
+  "name": "Class 10 Maths Question Repeater",
+  "short_name": "Maths Repeater",
+  "description": "Analyze CBSE Class 10 Maths previous year papers and see repeated questions chapter-wise (with figures when available).",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/static/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/static/icons/maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
+
